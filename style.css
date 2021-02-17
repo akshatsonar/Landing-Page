@@ -1,0 +1,107 @@
+body {
+    font-family: ;
+    background-color: ;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 10px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+li {
+    display: inline;
+    float: right;
+    padding-top: 50px;
+}
+
+a {
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+.about {
+    font-family: sans-serif;
+    color: black;
+    font-size: 14px;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 500px;
+}
+
+.title {
+    font-size: 22px;
+    font-weight: 800;
+    color: darkblue;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    color: darkblue;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 14px; 
+}
+
+.media {
+    width: 300px;
+}
+
+.trend {
+    padding-left: 30px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: white;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+    padding-top: 10px;
+}
+
+.column {
+    padding-right: 20px;
+}
+
+footer {
+    font-family: sans-serif;
+    color: white;
+    background-color: darkblue;
+    position: ;
+    bottom: 0px;
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+a:hover.news {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+}
+
+.news {
+    color: white;
+}
